@@ -34,7 +34,7 @@ namespace webapi.Controllers
                 case "case":
                     fileName = "case.json";
                     return DeserializeJson<Case>(fileName);
-                // Add cases for other component types here
+                
                 default:
                     return new List<PCPart>();
             }
@@ -49,10 +49,10 @@ namespace webapi.Controllers
                 return new List<T>();
             }
 
-            // Read the JSON data from the file
+            
             var jsonData = System.IO.File.ReadAllText(filePath);
 
-            // Deserialize the JSON data into a list of the appropriate objects
+            
             return JsonSerializer.Deserialize<List<T>>(jsonData);
         }
     }

@@ -4,14 +4,12 @@
 public class PCPart
 {
     [JsonPropertyName("name")]
-    public string? Name { get; set; } // Common property for all component types
+    public string? Name { get; set; } 
 
     [JsonPropertyName("price")]
-    public decimal? Price { get; set; } // Common property for all component types
+    public decimal? Price { get; set; } 
 
-    // Add other common properties here
-
-    // Leave out properties that are specific to CPU and GPU
+    
 }
 
 public class CPU : PCPart
