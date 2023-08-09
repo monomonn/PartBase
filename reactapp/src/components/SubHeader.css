@@ -1,0 +1,9 @@
+.subheader {
+    text-align: center;
+    padding-top: 15px; /* Adjust as needed */
+    height: 30px;
+    text-shadow: 1px 2px 4px #000000;
+    font-family: Actor;
+    font-size: 20px;
+    color: white;
+}

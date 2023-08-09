@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #141e30, #243b55);
+    height: 100vh; /* Ensure the background covers the entire viewport height */
+    color: white;
+}
+
+.warning-message {
+    display: none; /* Hidden by default */
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-weight: bold;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out; /* This will give us the fade effect */
+}
+
+.show-warning {
+    display: block;
+    opacity: 1; /* Fully visible */
+}

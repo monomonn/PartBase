@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "jsx": "react", 
+    "lib": [ "ESNext", "dom", "dom.iterable" ]
+    // ...
+  }
+  // ...
+}

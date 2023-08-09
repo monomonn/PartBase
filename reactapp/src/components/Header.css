@@ -1,0 +1,18 @@
+.header {
+    position: relative;
+    text-align: center;
+    padding-top: 20px; /* Adjust as needed */
+    margin: 70px;
+    height: 22px;
+    text-shadow: 4px 4px 4px #000000;
+    font-family: "Lalezar", cursive;
+    font-size: 76px;
+    color: white;
+}
+.logo {
+    width: 150px; /* Set your desired dimensions */
+    height: 80px;
+    position: absolute;
+    top: -65px; /* Adjust this value to change the vertical position */
+    left: -50px; /* Adjust this value to change the horizontal position */
+}

@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.App {
+    text-align: center;
+}
+
+.dropdown-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 50px;
+    justify-items: center;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1000px; 
+}
