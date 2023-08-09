@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# PC part base
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Are you building your own PC or upgrading its components? Or just wanting to browse? Look no further than PC Base!
 
-## Available Scripts
+Designed for PC enthusiasts, builders, and gamers, our web app simplifies the process of selecting the right parts for your dream computer setup. With an intuitive interface and real-time compatibility checks, you can confidently pick the components that work harmoniously together.
 
-In the project directory, you can run:
+# Key Features:
 
-### `npm start`
+**Real-time Compatibility Checks**: No more guesswork. Our compatibility checker instantly verifies whether your selected CPU, GPU, motherboard, memory, and other components are a perfect match.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Streamlined Selection**: Easily browse through a comprehensive list of top-quality CPU, GPU, motherboard, memory, PSU, and case components. Find the perfect fit for your build.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Error Prevention**: Avoid common pitfalls and incompatibility issues with our smart error prevention system. Get instant alerts when there's a mismatch between components.
 
-### `npm test`
+**User-Friendly Interface**: Our app features a user-friendly design, making it accessible for both beginners and experienced builders.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Comprehensive Component Details**: Access detailed specifications for each component, including core count, clock speeds, memory capacity, and more.
 
-### `npm run build`
+**Customization Options**: Tailor your PC build to your specific needs with multiple options for each component category.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Visual Compatibility Indicator**: A color-coded compatibility indicator provides a quick visual assessment of the compatibility status of your chosen components.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Building your dream PC has never been this straightforward. Say goodbye to frustration and compatibility woes – with the PC Part Compatibility Checker, you'll build your system with confidence and precision.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Start building your perfectly compatible PC today!
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
